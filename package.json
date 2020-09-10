@@ -1,0 +1,23 @@
+{
+  "name": "kooyman-scraper",
+  "version": "1.0.0",
+  "description": "Scraper for Kooyman",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeteBezgin/Kooyman-Scraper.git"
+  },
+  "author": "Mete Bezgin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeteBezgin/Kooyman-Scraper/issues"
+  },
+  "homepage": "https://github.com/MeteBezgin/Kooyman-Scraper#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "puppeteer": "^5.2.1"
+  }
+}
