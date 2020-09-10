@@ -14,11 +14,11 @@ Open up a terminal in the same directory
 
 In the terminal:
 
-Run "npm install" to install packages
+Run ```"npm install"``` to install packages
 
 After that run:
 
-node main.js
+```node main.js```
 
 After a successful execution data should be logged out on console.
 
